@@ -1,0 +1,7 @@
+DEPENDENCIES
+  ntp
+    path: .
+    metadata: true
+
+GRAPH
+  ntp (0.0.2)
